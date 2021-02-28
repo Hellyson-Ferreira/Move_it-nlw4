@@ -49,7 +49,7 @@ export function Countdown() {
                                 className={`${styles.countdownButton} ${styles.countdownButtonActive}`}
                             >
 
-                                Abandonar ciclo
+                                Abandonar ciclo{/* <img src="icons/level.svg" alt=""/> */}
                             </button>
                         ) : (
                             <button

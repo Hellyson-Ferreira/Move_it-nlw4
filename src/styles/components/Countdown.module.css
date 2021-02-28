@@ -74,15 +74,6 @@
     background: var(--white);
     color: var(--text);
     cursor: not-allowed;
+    border-bottom: 5px solid var(--green);
 }
 
-/* .countdownButton:disabled:after{
-    width: calc(100% - 100.2rem);
-    height: 3px;
-    content: '';
-    background: var(--green);
-    position: absolute;
-    left: 1.6rem;
-    right: 1.6rem;
-    
-} */
